@@ -1,16 +1,21 @@
-# netflix_ui
+# 📺 Netflix UI Clone – Flutter Project
 
-A new Flutter project.
+![netflixui](https://github.com/user-attachments/assets/9dba03c9-75c1-45c2-9e87-c997a8d0d476)
 
-## Getting Started
+This project is a **Netflix-inspired user interface clone** built using **Flutter**. It replicates the sleek and dynamic look of Netflix's UI, with a strong focus on responsive layout, visual appeal, and theme handling.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🌙 **Dark & Light Theme Support**  
+  Dynamic switching between dark and light modes using Flutter's `ThemeData`.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🔄 **State Management using Provider**  
+  Used the `provider` package to manage and switch themes efficiently throughout the app.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 🚀 Getting Started
+
+1. **Clone this repo**
+   ```bash
+   git clone https://github.com/your-username/netflix_ui_clone_flutter.git
+
